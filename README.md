@@ -17,6 +17,9 @@ Free SEO tools every webmaster needs. No signup required.
 - [Plagiarism Checker](https://txt-tool.com/tools/plagiarism-checker/) - Check content originality
 - [Grammar Checker](https://txt-tool.com/tools/grammar-checker/) - Fix grammar issues
 
+## Traffic & Analytics
+- [Vaneform](https://vaneform.com/) - Free website traffic checker for monthly visitors, sources, and geo
+
 ## Contributing
 Found a great free SEO tool? Open a PR!
 
